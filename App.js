@@ -11,7 +11,6 @@ import {
     Image,
     Animated,
 } from 'react-native';
-// carousel
 
 const { width, height } = Dimensions.get('window')
 const ITEM_WIDTH = width
